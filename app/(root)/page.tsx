@@ -6,7 +6,7 @@ const SetupPage = () => {
   return (
     <div>
       <Modal title="test" description="test" isOpen onClose={() => {}}>
-        children
+        Hello, I am David Ambokadze
       </Modal>
     </div>
   )
